@@ -1,0 +1,15 @@
+
+.main-div {
+    height: 50%;
+    width: 80%;
+    margin: 10rem 5rem;
+    display: inline-block;
+
+    
+}
+
+.page{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 55, 55);
+}
